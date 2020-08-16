@@ -1,2 +1,2 @@
 # Portfolio
-It contains a set of my bug reports. 
+It contains a list of my bug reports. 
