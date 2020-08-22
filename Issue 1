@@ -11,9 +11,6 @@ very valuable
 BUILD
 uTest Academy - Challenge
  
-MODIFIED
-08/17/20 at 4:50 PM
- 
 SEVERITY
 High
  
@@ -26,11 +23,6 @@ Every Time
 ENVIRONMENT
  Motorola One Fusion + - Android 10, Plus (Polkomtel)
 DESCRIPTION
-DUPLICATE BUG WARNING
- Do not report duplicates
-Make sure your issue was not already reported - these 2 issues look similar:
-
-Highlight Duplicate Wording
 
 1 Motorola One Fusion+ - PLP - sorting prices from low -high doesn't work properly 
 1 Motorola One Fusion+ - Search - Search shows wrong results 
