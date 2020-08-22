@@ -1,0 +1,36 @@
+#4607728 08/17/20 AT 6:56 AM TEST CYCLE #281659
+THIS IS REPORTED FROM TEST CASE #4473060
+
+TITLE:            Motorola One Fusion+ - PLP - sorting prices from low -high doesn't work properly
+ 
+TESTER            Marta Malak
+ 
+STATUS            Approved 
+
+VALUE             somewhat valuable
+ 
+BUILD             uTest Academy - Challenge
+ 
+SEVERITY          High
+ 
+ISSUE TYPE        Functional
+ 
+FREQUENCY         Every Time
+ 
+ENVIRONMENT       Motorola One Fusion + - Android 10, Plus (Polkomtel)
+
+ACTION PERFORMED
+1. Open the testing website www.claires.com
+2. Tap on hamburger menu
+3. Tap on Fashion
+4. Tap on Hats
+5. In the filter bar change option from rocommended to price (low to high)
+
+EXPECTED RESULT
+Prices should be filtered from low to high
+
+ACTUAL RESULT
+The prices aren't filtered from low to high
+
+EXACT URL 
+https://www.claires.com/fashion/girls-hats/?lang=en_GB&srule=PriceL2H&start=0&sz=36
