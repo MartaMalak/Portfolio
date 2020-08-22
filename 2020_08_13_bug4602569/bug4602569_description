@@ -1,0 +1,30 @@
+#4602569 08/13/20 AT 10:27 AM TEST CYCLE #280852
+
+TITLE           Motorola One Fusion+/10: Search - Search displays improper results
+ 
+TESTER          Marta Malak
+ 
+STATUS          Approved 
+
+VALUE           very valuable
+ 
+BUILD           Academy All Stars
+ 
+SEVERITY        High
+ 
+ISSUE TYPE      Functional
+ 
+FREQUENCY       Every Time
+ 
+ENVIRONMENT     Motorola One Fusion + - Android 10, Plus (Polkomtel)
+
+ACTION PERFORMED
+1. Open the testing website https://www.lululemon.com/
+2. Type "Dresses" in the search bar
+3. Tap on "search" symbol
+
+EXPECTED RESULT
+The user should see only dresses in the results
+
+ACTUAL RESULT
+The user sees dresses and jumpsuits
