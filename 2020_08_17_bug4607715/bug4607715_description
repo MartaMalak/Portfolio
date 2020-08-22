@@ -1,0 +1,32 @@
+#4607715 08/17/20 AT 6:29 AM TEST CYCLE #281659
+
+TITLE         Motorola One Fusion+ - Search - Search shows wrong results
+ 
+TESTER        Marta Malak
+ 
+STATUS        Approved 
+
+VALUE         somewhat valuable
+ 
+BUILD         uTest Academy - Challenge
+ 
+SEVERITY      High
+ 
+ISSUE TYPE    Functional
+ 
+FREQUENCY     Every Time
+ 
+ENVIRONMENT   Motorola One Fusion + - Android 10, Plus (Polkomtel)
+
+ACTION PERFORMED
+1. Open the testing website www.claires.com
+2. Type in "pens" in the search bar
+
+EXPECTED RESULT
+Only pens should be displayed as results
+
+ACTUAL RESULT
+Pencil cases and pens are displayed
+
+EXACT URL 
+https://www.claires.com/search/?q=Pens&lang=en_GB
