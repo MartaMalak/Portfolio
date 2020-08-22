@@ -1,0 +1,385 @@
+﻿23:00:17.370 Navigated to https://www.walgreens.com/
+23:00:17.402 VM1539:4 GET https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js net::ERR_BLOCKED_BY_CLIENT
+23:00:17.406 DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+23:00:17.602 VM1539:1 A cookie associated with a cross-site resource at http://wag-static.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:17.738 (index):409 GET https://se.monetate.net/js/2/a-ca4ba9c7/p/walgreens.com/entry.js net::ERR_BLOCKED_BY_CLIENT
+23:00:17.738 (index):410 GET https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/satelliteLib-57a6bdc919f03b4be4d2cb262bbf5c86762a76b9.js net::ERR_BLOCKED_BY_CLIENT
+23:00:18.184 DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+23:00:18.193 DevTools failed to load SourceMap: Could not load content for https://www.wag-static.com/common/react/assets/script.min.js.map: HTTP error: status code 502, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+23:00:24.225 Navigated to https://www.walgreens.com/balancerewards/balance-rewards.jsp
+23:00:24.254 balance-rewards.jsp:1 Refused to load the script 'https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js' because it violates the following Content Security Policy directive: "script-src 'nonce-4703bdb7d927260f03ebeea2fb02ccf1' *.salesforceliveagent.com *.adobedtm.com *.wag-static.com *.walgreens.com *.monetate.net *.mathtag.com *.googletagmanager.com 'unsafe-inline' 'unsafe-eval' 'self' *.googleapis.com *.googleadservices.com *.xg4ken.com *.owneriq.net *.foresee.com 'strict-dynamic' bat.bing.com assets.secure.checkout.visa.com secure.checkout.visa.com pics.drugstore.com fls.doubleclick.net maps.google.com 'nonce-9e7161160a3d09696c26212c4d963206'". 'strict-dynamic' is present, so host-based whitelisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+23:00:24.255 balance-rewards.jsp:4 GET https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js net::ERR_BLOCKED_BY_CLIENT
+23:00:24.260 DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+23:00:24.339 balance-rewards.jsp:1452 GET https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/satelliteLib-57a6bdc919f03b4be4d2cb262bbf5c86762a76b9.js net::ERR_BLOCKED_BY_CLIENT
+23:00:24.340 balance-rewards.jsp:1452 GET https://se.monetate.net/js/2/a-ca4ba9c7/p/walgreens.com/entry.js net::ERR_BLOCKED_BY_CLIENT
+23:00:24.926 VM1577 client_bundle_br_atf-1592914527985.js:1 Clinent entry ATF::: Wed Jul 08 2020 23:00:24 GMT+0100 (British Summer Time)
+23:00:24.961 VM1579 client_bundle_br_btf-1592914527985.js:1 Client entry BTF::: Wed Jul 08 2020 23:00:24 GMT+0100 (British Summer Time)
+23:00:25.052 adapive_need_help_live_chat.PNG:1 GET https://www.walgreens.com/images/adaptive/share/images/adapive_need_help_live_chat.PNG 404
+Image (async)
+setValueForProperty @ VM1576 brcommon-1592914527985.js:6
+_updateDOMProperties @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+performInitialMount @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+performInitialMount @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountChildren @ VM1576 brcommon-1592914527985.js:6
+_createInitialChildren @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+performInitialMount @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+performInitialMount @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+performInitialMount @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+performInitialMount @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+mountComponent @ VM1576 brcommon-1592914527985.js:6
+a @ VM1576 brcommon-1592914527985.js:6
+perform @ VM1576 brcommon-1592914527985.js:6
+o @ VM1576 brcommon-1592914527985.js:6
+perform @ VM1576 brcommon-1592914527985.js:6
+batchedUpdates @ VM1576 brcommon-1592914527985.js:6
+batchedUpdates @ VM1576 brcommon-1592914527985.js:6
+_renderNewRootComponent @ VM1576 brcommon-1592914527985.js:6
+_renderSubtreeIntoContainer @ VM1576 brcommon-1592914527985.js:6
+render @ VM1576 brcommon-1592914527985.js:6
+211 @ VM1577 client_bundle_br_atf-1592914527985.js:1
+s @ VM1577 client_bundle_br_atf-1592914527985.js:1
+177 @ VM1577 client_bundle_br_atf-1592914527985.js:1
+s @ VM1577 client_bundle_br_atf-1592914527985.js:1
+a @ VM1577 client_bundle_br_atf-1592914527985.js:1
+(anonymous) @ VM1577 client_bundle_br_atf-1592914527985.js:1
+(anonymous) @ VM1577 client_bundle_br_atf-1592914527985.js:1
+Show 44 more frames
+23:00:25.108 DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+23:00:25.384 balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://c.la2w1.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:25.414 VM1583 deployment.js:17 LIVE AGENT: DOM is ready. Setting up environment.
+23:00:25.416 VM1583 deployment.js:17 LIVE AGENT: Reusing existing session.
+23:00:25.809 balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://d.la2w1.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:25.936 VM1583 deployment.js:17 LIVE AGENT: Received updated LiveAgent server url: https://d.la3-c2-ph2.salesforceliveagent.com/chat! Consider updating this site's deployment code.
+23:00:25.937 VM1583 deployment.js:17 LIVE AGENT: Requesting new session.
+23:00:26.468 balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://d.la3-c2-ph2.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:26.654 VM1583 deployment.js:17 LIVE AGENT: Received new session ID
+23:00:26.660 VM1583 deployment.js:17 LIVE AGENT: Ping rate set to 50000ms
+23:00:26.661 VM1583 deployment.js:17 LIVE AGENT: Setting state for button 57360000000GnKS to online
+23:00:26.662 VM1583 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKh disabled because HTML element was not found
+23:00:26.662 VM1583 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKm disabled because HTML element was not found
+23:00:26.662 VM1583 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKr disabled because HTML element was not found
+23:00:26.663 VM1583 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKw disabled because HTML element was not found
+23:00:26.663 VM1583 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnL1 disabled because HTML element was not found
+23:00:26.663 VM1583 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnL6 disabled because HTML element was not found
+23:00:26.663 VM1583 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnLB disabled because HTML element was not found
+23:00:26.761 VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:1 GET https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js net::ERR_BLOCKED_BY_CLIENT
+p @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:1
+(anonymous) @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:23
+setTimeout (async)
+value @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:23
+k @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:6
+O @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:6
+B @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:6
+f @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:1
+(anonymous) @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:23
+n @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:1
+(anonymous) @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:23
+n @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:1
+(anonymous) @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:1
+(anonymous) @ VM1575 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js:1
+23:00:27.901 login.jsp:1 Refused to load the script 'https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js' because it violates the following Content Security Policy directive: "script-src 'nonce-89ab7e752fe92f942c1de891fc588c29' *.salesforceliveagent.com *.adobedtm.com *.wag-static.com *.walgreens.com *.monetate.net *.mathtag.com *.googletagmanager.com 'unsafe-inline' 'unsafe-eval' 'self' *.googleapis.com *.googleadservices.com *.xg4ken.com *.owneriq.net *.foresee.com 'strict-dynamic' bat.bing.com assets.secure.checkout.visa.com secure.checkout.visa.com pics.drugstore.com fls.doubleclick.net maps.google.com 'nonce-ebecab39ccd5c66b7db793a191900ad2'". 'strict-dynamic' is present, so host-based whitelisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+23:00:27.903 login.jsp:3 GET https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js net::ERR_BLOCKED_BY_CLIENT
+23:00:27.928 Navigated to https://www.walgreens.com/login.jsp?ru=/balancerewards/balance-rewards.jsp
+23:00:27.973 login.jsp?ru=/balancerewards/balance-rewards.jsp:22 GET https://www.walgreens.com/profile/react/assets/fjs/fingerprint2.js net::ERR_BLOCKED_BY_CLIENT
+23:00:27.985 DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+23:00:27.994 login.jsp?ru=/balancerewards/balance-rewards.jsp:48 GET https://se.monetate.net/js/2/a-ca4ba9c7/p/walgreens.com/entry.js net::ERR_BLOCKED_BY_CLIENT
+23:00:28.015 login.jsp?ru=/balancerewards/balance-rewards.jsp:48 GET https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/satelliteLib-57a6bdc919f03b4be4d2cb262bbf5c86762a76b9.js net::ERR_BLOCKED_BY_CLIENT
+23:00:28.117 DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+23:00:28.135 login.jsp?ru=/balancerewards/balance-rewards.jsp:45 GET https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js net::ERR_BLOCKED_BY_CLIENT
+injectNonce @ login.jsp?ru=/balancerewards/balance-rewards.jsp:45
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+load (async)
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+n @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+n @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+23:00:28.139 login.jsp?ru=/balancerewards/balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://c.la2w1.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:28.140 VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1 Uncaught ReferenceError: Fingerprint2 is not defined
+    at VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+setTimeout (async)
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+v @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+S.forEach.e.<computed> @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+n @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+s @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+v @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+S.forEach.e.<computed> @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+n @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+s @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+Oo @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Ro @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+t.unstable_runWithPriority @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:36
+Cs @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+xs @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Ts @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+ys @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Xo @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Is @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+ks @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Rs.render @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+_s @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Bs @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+hydrate @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+n @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+n @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+Show 12 more frames
+23:00:28.266 VM1601 deployment.js:17 LIVE AGENT: DOM is ready. Setting up environment.
+23:00:28.268 VM1601 deployment.js:17 LIVE AGENT: Reusing existing session.
+23:00:28.287 DevTools failed to load SourceMap: Could not load content for https://www.walgreens.com/profile/react/assets/fjs/md5.min.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+23:00:28.541 login.jsp?ru=/balancerewards/balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://d.la2w1.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:28.678 VM1601 deployment.js:17 LIVE AGENT: Received updated LiveAgent server url: https://d.la3-c2-ph2.salesforceliveagent.com/chat! Consider updating this site's deployment code.
+23:00:28.680 VM1601 deployment.js:17 LIVE AGENT: Requesting new session.
+23:00:29.037 login.jsp?ru=/balancerewards/balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://d.la3-c2-ph2.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:29.221 VM1601 deployment.js:17 LIVE AGENT: Received new session ID
+23:00:29.227 VM1601 deployment.js:17 LIVE AGENT: Ping rate set to 50000ms
+23:00:29.227 VM1601 deployment.js:17 LIVE AGENT: Setting state for button 57360000000GnKS to online
+23:00:29.228 VM1601 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKh disabled because HTML element was not found
+23:00:29.228 VM1601 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKm disabled because HTML element was not found
+23:00:29.228 VM1601 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKr disabled because HTML element was not found
+23:00:29.229 VM1601 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKw disabled because HTML element was not found
+23:00:29.229 VM1601 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnL1 disabled because HTML element was not found
+23:00:29.229 VM1601 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnL6 disabled because HTML element was not found
+23:00:29.230 VM1601 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnLB disabled because HTML element was not found
+23:00:42.369 VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:11 Refused to set unsafe header "Cookie"
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:11
+l @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:11
+e.exports @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:11
+e.exports @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:51
+Promise.then (async)
+s.request @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:51
+i.forEach.s.<computed> @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:51
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:11
+S @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:6
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+v @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+S.forEach.e.<computed> @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:44
+n @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+s @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:11
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:1
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+onClick @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:68
+u @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+d @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+D @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+I @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+_ @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+O @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Cn @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+ws @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Be @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+In @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+(anonymous) @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+t.unstable_runWithPriority @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:36
+Ps @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Pn @ VM1597 client_bundle_dotcom_login-282165714a84e7aa1de2.js:27
+Show 7 more frames
+23:00:44.666 balance-rewards.jsp:1 Refused to load the script 'https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js' because it violates the following Content Security Policy directive: "script-src 'nonce-49cde0e715c71e67c449decf1cb17b9f' *.salesforceliveagent.com *.adobedtm.com *.wag-static.com *.walgreens.com *.monetate.net *.mathtag.com *.googletagmanager.com 'unsafe-inline' 'unsafe-eval' 'self' *.googleapis.com *.googleadservices.com *.xg4ken.com *.owneriq.net *.foresee.com 'strict-dynamic' bat.bing.com assets.secure.checkout.visa.com secure.checkout.visa.com pics.drugstore.com fls.doubleclick.net maps.google.com 'nonce-17f7fbba78aa3038366f03979fa73399'". 'strict-dynamic' is present, so host-based whitelisting is disabled. Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+23:00:44.668 balance-rewards.jsp:4 GET https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js net::ERR_BLOCKED_BY_CLIENT
+23:00:44.715 Navigated to https://www.walgreens.com/balancerewards/balance-rewards.jsp
+23:00:44.759 balance-rewards.jsp:1452 GET https://assets.adobedtm.com/7deb8111c940df73792ccb9937476cc412e87575/satelliteLib-57a6bdc919f03b4be4d2cb262bbf5c86762a76b9.js net::ERR_BLOCKED_BY_CLIENT
+23:00:44.760 balance-rewards.jsp:1452 GET https://se.monetate.net/js/2/a-ca4ba9c7/p/walgreens.com/entry.js net::ERR_BLOCKED_BY_CLIENT
+23:00:44.809 DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/iframe_handler.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+23:00:45.608 client_bundle_br_atf-1592914527985.js:1 Clinent entry ATF::: Wed Jul 08 2020 23:00:45 GMT+0100 (British Summer Time)
+23:00:45.663 client_bundle_br_btf-1592914527985.js:1 Client entry BTF::: Wed Jul 08 2020 23:00:45 GMT+0100 (British Summer Time)
+23:00:45.846 adapive_need_help_live_chat.PNG:1 GET https://www.walgreens.com/images/adaptive/share/images/adapive_need_help_live_chat.PNG 404
+Image (async)
+setValueForProperty @ brcommon-1592914527985.js:6
+_updateDOMProperties @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+performInitialMount @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+performInitialMount @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountChildren @ brcommon-1592914527985.js:6
+_createInitialChildren @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+performInitialMount @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+performInitialMount @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+performInitialMount @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+performInitialMount @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+mountComponent @ brcommon-1592914527985.js:6
+a @ brcommon-1592914527985.js:6
+perform @ brcommon-1592914527985.js:6
+o @ brcommon-1592914527985.js:6
+perform @ brcommon-1592914527985.js:6
+batchedUpdates @ brcommon-1592914527985.js:6
+batchedUpdates @ brcommon-1592914527985.js:6
+_renderNewRootComponent @ brcommon-1592914527985.js:6
+_renderSubtreeIntoContainer @ brcommon-1592914527985.js:6
+render @ brcommon-1592914527985.js:6
+211 @ client_bundle_br_atf-1592914527985.js:1
+s @ client_bundle_br_atf-1592914527985.js:1
+177 @ client_bundle_br_atf-1592914527985.js:1
+s @ client_bundle_br_atf-1592914527985.js:1
+a @ client_bundle_br_atf-1592914527985.js:1
+(anonymous) @ client_bundle_br_atf-1592914527985.js:1
+(anonymous) @ client_bundle_br_atf-1592914527985.js:1
+Show 56 more frames
+23:00:45.885 DevTools failed to load SourceMap: Could not load content for chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/sourceMap/chrome/content.map: HTTP error: status code 404, net::ERR_UNKNOWN_URL_SCHEME
+23:00:46.112 balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://c.la2w1.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:46.165 VM1630 deployment.js:17 LIVE AGENT: System Initialized. Waiting for the DOM to be ready
+23:00:46.174 VM1630 deployment.js:17 LIVE AGENT: DOM is ready. Setting up environment.
+23:00:46.175 VM1630 deployment.js:17 LIVE AGENT: Reusing existing session.
+23:00:46.438 balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://d.la2w1.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:46.562 VM1630 deployment.js:17 LIVE AGENT: Received updated LiveAgent server url: https://d.la3-c2-ph2.salesforceliveagent.com/chat! Consider updating this site's deployment code.
+23:00:46.565 VM1630 deployment.js:17 LIVE AGENT: Requesting new session.
+23:00:46.919 balance-rewards.jsp:1 A cookie associated with a cross-site resource at https://d.la3-c2-ph2.salesforceliveagent.com/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+23:00:47.429 VM1630 deployment.js:17 LIVE AGENT: Received new session ID
+23:00:47.432 VM1630 deployment.js:17 LIVE AGENT: Ping rate set to 50000ms
+23:00:47.432 VM1630 deployment.js:17 LIVE AGENT: Setting state for button 57360000000GnKS to online
+23:00:47.432 VM1630 deployment.js:17 LIVE AGENT: Setting state for button 57360000000GnKS to online
+23:00:47.432 VM1630 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKh disabled because HTML element was not found
+23:00:47.432 VM1630 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKm disabled because HTML element was not found
+23:00:47.433 VM1630 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKr disabled because HTML element was not found
+23:00:47.433 VM1630 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnKw disabled because HTML element was not found
+23:00:47.433 VM1630 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnL1 disabled because HTML element was not found
+23:00:47.433 VM1630 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnL6 disabled because HTML element was not found
+23:00:47.433 VM1630 deployment.js:17 LIVE AGENT: Server Warning: Warning: Button 57360000000GnLB disabled because HTML element was not found
+23:00:47.523 client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:1 GET https://www.walgreens.com/dthandler/ruxitagentjs_ICA2SVfhqru_10195200626110504.js net::ERR_BLOCKED_BY_CLIENT
+p @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:1
+(anonymous) @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:23
+setTimeout (async)
+value @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:23
+k @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:6
+O @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:6
+B @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:6
+f @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:1
+(anonymous) @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:23
+n @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:1
+(anonymous) @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:23
+n @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:1
+(anonymous) @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:1
+(anonymous) @ client_bundle_header_lsg3-9e3bfe19432b8f319be7.js?o=acs:1
+23:00:55.859 balance-rewards.jsp:1 Refused to execute inline event handler because it violates the following Content Security Policy directive: "script-src 'nonce-49cde0e715c71e67c449decf1cb17b9f' *.salesforceliveagent.com *.adobedtm.com *.wag-static.com *.walgreens.com *.monetate.net *.mathtag.com *.googletagmanager.com 'unsafe-inline' 'unsafe-eval' 'self' *.googleapis.com *.googleadservices.com *.xg4ken.com *.owneriq.net *.foresee.com 'strict-dynamic' bat.bing.com assets.secure.checkout.visa.com secure.checkout.visa.com pics.drugstore.com fls.doubleclick.net maps.google.com 'nonce-17f7fbba78aa3038366f03979fa73399'". Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list.
+
