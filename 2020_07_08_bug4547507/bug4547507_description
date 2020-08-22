@@ -1,0 +1,34 @@
+#4547507 07/08/20 AT 10:25 PM TEST CYCLE #277359
+
+TITLE               Windows 10 - Balance Rewards - "Need help? Click or press enter to chat" option doesn't work
+ 
+TESTER              Marta Malak
+ 
+STATUS              Approved 
+
+VALUE               somewhat valuable
+ 
+BUILD               Academy - Computers
+ 
+SEVERITY            High
+ 
+ISSUE TYPE          Functional
+ 
+FREQUENCY           Every Time
+ 
+ENVIRONMENT         Windows 10 - Chrome
+
+ACTION PERFORMED
+1. Open the testing website https://www.walgreens.com/
+2. Click on "Your account"
+3. Click on "Balance Rewards"
+4. Sign in (email: neraklawok@wp.pl
+, password: Neraklawok123)
+5. Scroll down the page
+6. Click on "Need help? Click or press enter to chat"
+
+EXPECTED RESULT
+Access to chat where it would be possible to get help
+
+ACTUAL RESULT
+After clicking on 'Need help? Click or press enter to chat' there is no reaction of the website and it impossible to enter the chat
