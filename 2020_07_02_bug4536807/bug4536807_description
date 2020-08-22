@@ -1,0 +1,35 @@
+#4536807 07/02/20 AT 10:06 AM TEST CYCLE #276467
+
+TITLE             Windows 10 - Account overview - Unable to manage email preferences
+ 
+TESTER            Marta Malak
+
+STATUS            Approved 
+
+VALUE             somewhat valuable
+
+BUILD             Academy - Introduction to Testing
+ 
+SEVERITY          Medium
+ 
+ISSUE TYPE        Functional
+ 
+FREQUENCY         Occasionally
+ 
+ENVIRONMENT       Windows 10 - Chrome
+
+ACTION PERFORMED
+1. Open the testing website: https://www.neimanmarcus.com/
+2. Click on Sign in button in the top right corner of the homepage.
+3. Sign in with email: neraklawok@wp.pl
+and password: Neraklawok123
+4. In Account Overview click on Manage email preferences (between Account Overview and Order History)
+
+EXPECTED RESULT
+On the left there should be opened the page where you can change/manage email preferences
+
+ACTUAL RESULT
+Manage email preferences page contains error message
+
+ERROR MESSAGE
+This site can't be reached
