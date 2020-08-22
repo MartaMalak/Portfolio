@@ -1,0 +1,34 @@
+Motorola One Fusion+ - PLP - No possibiliy to move to next page of products
+ 
+08/17/20 AT 8:19 AM TEST CYCLE #281659
+
+TESTER        Marta Malak
+ 
+STATUS        Approved 
+
+VALUE         very valuable
+
+SEVERITY      High
+ 
+ISSUE TYPE    Functional
+ 
+FREQUENCY     Every Time
+ 
+ENVIRONMENT   Motorola One Fusion + - Android 10, Plus (Polkomtel)
+
+ACTION PERFORMED
+1. Open the testing website www.claires.com
+2. Tap on hamburger menu
+3. Tap on What's hot
+4. Scroll down till the end of category
+5. Tap on 50% off deals
+6. Tap on the numbers on the right to move to next page
+
+EXPECTED RESULT
+The user should be redirected to next pages
+
+ACTUAL RESULT
+The buttons don't work, the user is not able to see next pages
+
+EXACT URL 
+https://www.claires.com/whats-hot/50%-off-deals/?lang=en_GB&start=432&sz=36
