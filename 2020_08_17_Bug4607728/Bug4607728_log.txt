@@ -1,0 +1,51 @@
+﻿06:51:01.379 ?lang=en_GB:4993 [Intervention] Images loaded lazily and replaced with placeholders. Load events are deferred. See https://crbug.com/954323
+06:51:01.911 VM2518 scripts.js:10 Welcome to Claire's console...
+06:51:01.913 VM2518 scripts.js:10 Accordion Init...
+06:51:01.913 VM2518 scripts.js:10 Videos Init...
+06:51:01.914 VM2518 scripts.js:10 Sticky Init...
+07:50:26.669 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:26.669 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:26.669 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:26.669 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:26.669 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:26.669 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:26.669 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+06:51:04.076 VM2619 fbevents.js:23 [Facebook Pixel] - An invalid email address was specified for 'em'. This data will not be sent with any events for this Pixel.
+t @ VM2619 fbevents.js:23
+w @ VM2619 fbevents.js:23
+E @ VM2619 fbevents.js:23
+o @ VM2625 identity.js:21
+p @ VM2625 identity.js:21
+value @ VM2619 fbevents.js:23
+value @ VM2619 fbevents.js:23
+value @ VM2619 fbevents.js:23
+value @ VM2619 fbevents.js:23
+value @ VM2619 fbevents.js:23
+value @ VM2619 fbevents.js:23
+oa @ VM2619 fbevents.js:25
+$ @ VM2619 fbevents.js:25
+Z @ VM2619 fbevents.js:25
+la @ VM2619 fbevents.js:25
+X @ VM2619 fbevents.js:25
+pa @ VM2619 fbevents.js:25
+(anonymous) @ VM2619 fbevents.js:25
+(anonymous) @ VM2619 fbevents.js:25
+v @ VM2619 fbevents.js:23
+each @ VM2619 fbevents.js:23
+value @ VM2619 fbevents.js:25
+value @ VM2619 fbevents.js:25
+value @ VM2619 fbevents.js:25
+plugin @ VM2629 1420444887978312:61
+value @ VM2619 fbevents.js:25
+a.registerPlugin @ VM2619 fbevents.js:25
+(anonymous) @ VM2629 1420444887978312:30
+06:51:08.933 ?lang=en_GB:4957 [Intervention] Images loaded lazily and replaced with placeholders. Load events are deferred. See https://crbug.com/954323
+07:50:34.841 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:34.841 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:34.841 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:34.841 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:34.841 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:34.841 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:34.841 A cookie associated with a cross-site resource at <URL> was set without the `SameSite` attribute. It has been blocked, as Chrome now only delivers cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at <URL> and <URL>.
+07:50:24.735 Navigated to https://www.claires.com/?lang=en_GB
+07:50:32.364 Navigated to https://www.claires.com/fashion/girls-hats/?lang=en_GB
